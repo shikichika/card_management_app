@@ -1,0 +1,4 @@
+##cash
+__pycache__/
+## connection for db
+db.yaml
