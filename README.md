@@ -1,5 +1,5 @@
 # Cards Management App!
-#### Video Demo:  <URL https://youtu.be/6H1CRxpVyS4 >
+#### Video Demo:  <URL https://youtu.be/s8Of6RjEYG0 >
 #### Description:
 ##### This is a simple cards managemet. Nowadays, we have more cards, such as points cards for shopping, patient registration cards, cards for hair solons, library cards, than we can manage them. This app helps you manage your cards! Functions are very simple, need to type the card name, genre and due date if it has. Also, you can make your original genre according to your cards. On the page of index, you can query cards and you don't have to worry about if you take a long time to reach your cards! 
 
