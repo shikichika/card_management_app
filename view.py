@@ -6,7 +6,7 @@ import yaml
 from helper import hash
 
 
-# FLASK_APP=view.py flask run --debugger --reload
+# ４４
 app = Flask(__name__)
 
 # for session

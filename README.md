@@ -50,6 +50,3 @@
 ##### I use MySQL, because I've heared that it is most popular RDBMS. There is few documents in which explain how to use flask with MySQL server, but I've done it by myself. For security, I made few urls in HTML and use hash with salt. Name + typed Password. About UI I made responsible design with navber and UI never be broken!
 
 
-
-
-
