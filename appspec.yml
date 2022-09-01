@@ -1,5 +1,5 @@
-version:0.0
-os:linux
+version: 0.0
+os: linux
 files:
- -source:/
- destination:/var/app
+  - source: /
+    destination: /var/app
